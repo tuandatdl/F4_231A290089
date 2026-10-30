@@ -9,7 +9,7 @@
 * **Lớp học phần:** Lập trình thiết bị di động (INT4211)
 * **Môi trường thực thi:** Flutter 3.x (Material 3) trên macOS (Apple Silicon)
 * **Thiết bị thử nghiệm:** Máy ảo Pixel 8 (Android 17, API 37.1) & Google Chrome
-* **Repository GitHub:** `https://github.com/tuandatdl/F4_231A290089` (Private, đã mời giảng viên làm Collaborator)
+* **Repository GitHub:** `https://github.com/tuandatdl/F4_231A290089` 
 
 ---
 
